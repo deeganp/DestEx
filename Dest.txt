@@ -1,0 +1,6 @@
+1. 8 and 1846
+2. {YearNeptuneDiscovered: 1846, yearMarsDiscovered: 1659}
+3.  Your name is Alejandro and you like purple, Your name is Melissa, You like green, and Your name is undefined and you like green 
+4. Maya, Marissa, Chi
+"Raindrops on roses", "whiskers on kittens", ["Bright copper kettles", "warm woolen mittens", "Brown paper packages tied up with strings"]
+5. [10, 30, 20]
